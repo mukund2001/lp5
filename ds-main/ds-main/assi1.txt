@@ -1,0 +1,9 @@
+rmic Servant
+start rmiregistry
+java Server
+
+next terminal
+
+java Client
+
+127.0.0.1
